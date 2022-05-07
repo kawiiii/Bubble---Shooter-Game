@@ -1,0 +1,5 @@
+import pickle
+i=1
+saved_file = open(f"../docs/numberofsaves", "wb")
+pickle.dump(i, saved_file)
+saved_file.close()

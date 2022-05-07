@@ -1,0 +1,59 @@
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+  background-image: url("imgs/tech.jpg");
+  opacity: .8;
+
+  height: 600px;
+}
+.color-overlay{
+  height: 100%;
+  width: 100%;
+  position:absolute; 
+  color:#2d3436;
+  opacity: .7;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.album {
+  min-height: 50rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.card {
+  float: left;
+  width: 33.333%;
+  padding: .75rem;
+  margin-bottom: 2rem;
+  border: 0;
+}
+.card:hover{
+  transform: scale(1.1,1.1);
+}
+
+.card > img {
+  margin-bottom: .75rem;
+  max-width: 100%;
+}
+
+.card-text {
+  font-size: 85%;
+}
+.special{
+  color: #eceeef!important;
+}
