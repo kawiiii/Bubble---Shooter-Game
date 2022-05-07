@@ -6,19 +6,19 @@ The main goal of this game is to destroy all marbles in the playground. When thr
 
 ## Main Features Implemented
 
-*➡ Leaderboard
-*➡ Boss Key
-*➡ Save/Load
-*➡ Collision detection Algorithms
-*➡ Ability to make Customization
+⋅⋅*Leaderboard
+⋅⋅*Boss Key
+⋅⋅*Save/Load
+⋅⋅*Collision detection Algorithms
+⋅⋅*Ability to make Customization
 
 ![image](https://user-images.githubusercontent.com/88980986/167253805-0d909800-844f-4d25-8b82-e8eb3fce9812.png)
 
 ## Contributors
 
-*-AhmedAli
-*-Abdul Moiz
-*-Kanwal 
-*-Muhammad Ali
+⋅⋅*AhmedAli
+⋅⋅*Abdul Moiz
+⋅⋅*Kanwal 
+⋅⋅*Muhammad Ali
 
 Good luck!
